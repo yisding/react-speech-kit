@@ -1,5 +1,5 @@
 {
-  "name": "react-speech-kit",
+  "name": "@readpanda/react-speech-kit",
   "version": "4.0.0",
   "description": "React hooks for in-browser Speech Recognition and Speech Synthesis.",
   "main": "dist/index.js",
