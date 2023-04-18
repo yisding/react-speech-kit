@@ -1,6 +1,6 @@
 # react-speech-kit 🎤
 
-Forked from mickeyparton/react-speech-kit
+Forked from `mickeyparton/react-speech-kit`
 
 React hooks for in-browser Speech Recognition and Speech Synthesis.
 [Demo here](https://mikeyparton.github.io/react-speech-kit/)
